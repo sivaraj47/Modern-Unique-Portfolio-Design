@@ -440,5 +440,9 @@ label{
   .cbox{
     height:100%;   
   }
+  .myeximgs {
+    display: flex;
+    flex-direction:column;
+}
   
 }
