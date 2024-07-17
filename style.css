@@ -21,6 +21,7 @@ nav {
   position:sticky;
   top:2px;  
   margin:10px;
+  z-index:1 !important;
 }
 
 .menus{
