@@ -305,5 +305,12 @@
   
     
     <script src="nav.js"></script>
+    <script>
+  // Disable right-click across the entire document
+  document.addEventListener('contextmenu', function (e) {
+    e.preventDefault();   // block the menu
+  }, false);
+</script>
+
   </body>
 </html>
