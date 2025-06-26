@@ -112,6 +112,7 @@ img{
   width:50%;
   height:100%;
   object-fit:cover;
+  border-radius: 25px;
 }
 .spacs{
   font-size:20px;
